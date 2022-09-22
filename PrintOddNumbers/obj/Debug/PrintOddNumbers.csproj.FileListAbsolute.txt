@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.exe.config
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.exe
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.pdb
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.exe
+C:\Users\HP\source\repos\Yogini1\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.pdb
